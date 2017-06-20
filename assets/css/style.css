@@ -1,1 +1,18 @@
 /* Holiii otra vez */
+
+body{
+	margin-left: 0%;
+	margin-right: 0%;
+}
+.container {
+    width: 900px;
+}
+
+.section-two{
+	height: 400px;
+	margin-top: 12%;
+}
+
+.section-three{
+	color: black;
+}
